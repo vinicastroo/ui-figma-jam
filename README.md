@@ -3,7 +3,7 @@
 A lightweight and interactive **Figma Jam–style whiteboard clone**, built with **React**, **React Flow**, and **Vite**.  
 This project provides a visual canvas where users can create, move, resize, and organize elements — inspired by the simplicity and fluidity of Figma Jam.
 
-<img height="200" width="200" src="https://imgur.com/a/Z67XfgZ"  />
+<img height="200" width="200" src="https://i.imgur.com/54c391f.png"  />
 
 ---
 
