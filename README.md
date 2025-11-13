@@ -3,6 +3,8 @@
 A lightweight and interactive **Figma Jam–style whiteboard clone**, built with **React**, **React Flow**, and **Vite**.  
 This project provides a visual canvas where users can create, move, resize, and organize elements — inspired by the simplicity and fluidity of Figma Jam.
 
+<img height="200" src="https://github.com/vinicastroo/ui-figma-jam/tree/main/public/demonstration-img.png"  />
+
 ---
 
 ## 🚀 Tech Stack
